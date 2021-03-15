@@ -1,0 +1,11 @@
+01 C centername2   
+01 C centername2 4
+01 C centername1 3
+02 N centername partyname
+02 N centername partyname3
+02 N centername partyname2
+02 N centername2 partyname 
+02 N centername2 partyname1
+03 V centername2 partyname 
+04 R
+05 S

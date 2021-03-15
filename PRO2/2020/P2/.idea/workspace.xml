@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="P2" targetName="main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4aa1bd85-28a5-4240-9617-a4d5f33402fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1aGTTciMdBmO2C8rJD4sUbcAiuS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="P2" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="P2" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4aa1bd85-28a5-4240-9617-a4d5f33402fb" name="Default Changelist" comment="" />
+      <created>1586360939049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586360939049</updated>
+      <workItem from="1586360940490" duration="1516000" />
+      <workItem from="1586366852789" duration="721000" />
+      <workItem from="1586623359058" duration="2264000" />
+      <workItem from="1586707019312" duration="2077000" />
+      <workItem from="1586876452580" duration="356000" />
+      <workItem from="1586878426042" duration="603000" />
+      <workItem from="1587029052327" duration="96000" />
+      <workItem from="1587056569009" duration="686000" />
+      <workItem from="1587653077800" duration="10339000" />
+      <workItem from="1587739976966" duration="17116000" />
+      <workItem from="1587830221572" duration="9752000" />
+      <workItem from="1587983525749" duration="17575000" />
+      <workItem from="1588013772490" duration="1899000" />
+      <workItem from="1588026031241" duration="7000" />
+      <workItem from="1588075619929" duration="5351000" />
+      <workItem from="1588094302285" duration="2483000" />
+      <workItem from="1588150592979" duration="7926000" />
+      <workItem from="1588182558421" duration="5340000" />
+      <workItem from="1588270293571" duration="282000" />
+      <workItem from="1588270697785" duration="5784000" />
+      <workItem from="1588291210270" duration="8000" />
+      <workItem from="1588291416365" duration="237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588291177044">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588291177044" />
+    <state width="857" height="245" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1588270622727" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1588291177043">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588291177043" />
+    <state width="857" height="245" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1588270622726" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1588291177043">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588291177043" />
+    <state width="857" height="245" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1588270622725" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1588291177044">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588291177044" />
+    <state width="857" height="245" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1588270622726" />
+    <state x="374" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1588291416439">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="374" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1588291416439" />
+    <state x="374" y="279" key="com.intellij.ide.util.TipDialog/0.23.1440.811@0.23.1440.811" timestamp="1588270713055" />
+  </component>
+</project>

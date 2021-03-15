@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -G "CodeBlocks - Unix Makefiles" /Users/nei/Desktop/PRO2/2020/P2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/nei/Desktop/PRO2/2020/P2/cmake-build-debug

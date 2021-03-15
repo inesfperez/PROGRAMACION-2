@@ -1,0 +1,4 @@
+/Users/nei/Desktop/PRO2/2020/P1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nei/Desktop/PRO2/2020/P1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nei/Desktop/PRO2/2020/P1/cmake-build-debug/CMakeFiles/test_lists.dir
+/Users/nei/Desktop/PRO2/2020/P1/cmake-build-debug/CMakeFiles/main.dir

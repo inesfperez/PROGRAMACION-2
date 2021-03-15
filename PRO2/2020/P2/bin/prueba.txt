@@ -1,0 +1,3 @@
+01 C centro1 10
+02 C centro2 10
+03 I
